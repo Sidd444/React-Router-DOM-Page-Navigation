@@ -1,0 +1,30 @@
+::-webkit-scrollbar{
+  display: none;
+}
+body{
+  background-color: black;
+}
+#nav-img{
+  margin-top: -28%;
+}
+#sign-up {
+  background-image: linear-gradient(135deg, #4c750d, #ffff2e); /* Greenish yellow gradient */
+  border: 2px solid;
+  border-image: linear-gradient(to bottom right, #ffff00, #38570b); /* Yellowish green border */
+  border-image-slice: 1;
+  height: 86vh;
+}
+#logos{
+  margin-top: -4.5%;
+}
+#login-in{
+  height: 65vh;
+  background-image: linear-gradient(135deg, #4c750d, #ffff2e); /* Greenish yellow gradient */
+  border: 2px solid;
+  border-image: linear-gradient(to bottom right, #ffff00, #38570b); /* Yellowish green border */
+  border-image-slice: 1;
+}
+#logo-2{
+  margin-top: -5%;
+}
+
